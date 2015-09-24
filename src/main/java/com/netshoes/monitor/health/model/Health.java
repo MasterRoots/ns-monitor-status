@@ -13,6 +13,7 @@ public class Health {
 
 	public Health() {
 		// empty
+		
 	}
 
 	public Health(final Status status, final Map<String, HealthComponent> component) {
